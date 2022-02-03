@@ -1,0 +1,1 @@
+# cloudfront-multiple-origin-same-s3
